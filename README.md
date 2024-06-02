@@ -1,1 +1,3 @@
-# 2a2b-bot-java
+# 2a2b bot
+
+Not open to contribute.
